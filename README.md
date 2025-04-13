@@ -29,7 +29,7 @@ Este repositorio es un proyecto basado en el framework **Laravel**. En él se ut
 
 ```bash
 # 1. Clona el repositorio
-git clone https://github.com/Perezcortes/nombre-del-proyecto.git
+git clone https://github.com/Perezcortes/proyecto-laravel-9.git
 cd nombre-del-proyecto
 
 # 2. Instala las dependencias PHP
